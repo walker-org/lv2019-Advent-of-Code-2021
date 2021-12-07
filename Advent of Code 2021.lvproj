@@ -16,6 +16,8 @@
 		<Item Name="3.lvlib" Type="Library" URL="../3/3.lvlib"/>
 		<Item Name="4.lvlib" Type="Library" URL="../4/4.lvlib"/>
 		<Item Name="5.lvlib" Type="Library" URL="../5/5.lvlib"/>
+		<Item Name="6.lvlib" Type="Library" URL="../6/6.lvlib"/>
+		<Item Name="7.lvlib" Type="Library" URL="../7/7.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Close File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Close File+.vi"/>
