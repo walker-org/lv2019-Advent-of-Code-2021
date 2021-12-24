@@ -31,6 +31,8 @@
 		<Item Name="18.lvlib" Type="Library" URL="../18/18.lvlib"/>
 		<Item Name="19.lvlib" Type="Library" URL="../19/19.lvlib"/>
 		<Item Name="20.lvlib" Type="Library" URL="../20/20.lvlib"/>
+		<Item Name="21.lvlib" Type="Library" URL="../21/21.lvlib"/>
+		<Item Name="22.lvlib" Type="Library" URL="../22/22.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Close File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Close File+.vi"/>
@@ -83,6 +85,7 @@
 				<Item Name="Sort 2D Array - Pop Stack.vi" Type="VI" URL="/&lt;vilib&gt;/Array/Sort 2D Array - Pop Stack.vi"/>
 				<Item Name="Assert Block Data Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Block Data Type.vim"/>
 				<Item Name="Sort 2D Array.vim" Type="VI" URL="/&lt;vilib&gt;/Array/Sort 2D Array.vim"/>
+				<Item Name="NI_3D Picture Control.lvlib" Type="Library" URL="/&lt;vilib&gt;/picture/3D Picture Control/NI_3D Picture Control.lvlib"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="String to Character Array__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/String to Character Array__ogtk.vi"/>
