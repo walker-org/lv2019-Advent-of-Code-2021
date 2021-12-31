@@ -33,6 +33,7 @@
 		<Item Name="20.lvlib" Type="Library" URL="../20/20.lvlib"/>
 		<Item Name="21.lvlib" Type="Library" URL="../21/21.lvlib"/>
 		<Item Name="22.lvlib" Type="Library" URL="../22/22.lvlib"/>
+		<Item Name="23.lvlib" Type="Library" URL="../23/23.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Close File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Close File+.vi"/>
