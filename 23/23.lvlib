@@ -8,22 +8,7 @@
 
 </Property>
 	<Item Name="23.vi" Type="VI" URL="../23.vi"/>
-	<Item Name="Between.vi" Type="VI" URL="../Between.vi"/>
-	<Item Name="Bottom Empty Slot.vi" Type="VI" URL="../Bottom Empty Slot.vi"/>
-	<Item Name="Can Move From.vi" Type="VI" URL="../Can Move From.vi"/>
-	<Item Name="Can Move To.vi" Type="VI" URL="../Can Move To.vi"/>
-	<Item Name="Clear Path.vi" Type="VI" URL="../Clear Path.vi"/>
-	<Item Name="Destination Room Position.vi" Type="VI" URL="../Destination Room Position.vi"/>
-	<Item Name="Done.vi" Type="VI" URL="../Done.vi"/>
-	<Item Name="Find Best Cost.vi" Type="VI" URL="../Find Best Cost.vi"/>
-	<Item Name="Hallway to Room.vi" Type="VI" URL="../Hallway to Room.vi"/>
-	<Item Name="Initialise State.vi" Type="VI" URL="../Initialise State.vi"/>
-	<Item Name="LRU Add.vi" Type="VI" URL="../LRU Add.vi"/>
-	<Item Name="LRU Cache.vi" Type="VI" URL="../LRU Cache.vi"/>
-	<Item Name="LRU Check.vi" Type="VI" URL="../LRU Check.vi"/>
-	<Item Name="LRU Queue.vi" Type="VI" URL="../LRU Queue.vi"/>
-	<Item Name="LRU Stop.vi" Type="VI" URL="../LRU Stop.vi"/>
-	<Item Name="Move Cost.vi" Type="VI" URL="../Move Cost.vi"/>
-	<Item Name="Room to Hallway.vi" Type="VI" URL="../Room to Hallway.vi"/>
-	<Item Name="Top Filled Slot.vi" Type="VI" URL="../Top Filled Slot.vi"/>
+	<Item Name="State Key.lvclass" Type="LVClass" URL="../State Key/State Key.lvclass"/>
+	<Item Name="State Value.lvclass" Type="LVClass" URL="../State Value/State Value.lvclass"/>
+	<Item Name="State.lvclass" Type="LVClass" URL="../State/State.lvclass"/>
 </Library>
